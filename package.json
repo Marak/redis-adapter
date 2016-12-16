@@ -23,9 +23,10 @@
     "should": "^9.0.2"
   },
   "devDependencies": {
+    "expect": "^1.20.2",
     "jugglingdb": "https://github.com/1602/jugglingdb/archive/master.tar.gz",
-    "should": "~1.2.2",
-    "mocha": "~1.8.2"
+    "mocha": "~1.8.2",
+    "should": "~1.2.2"
   },
   "repository": "",
   "license": "MIT"
